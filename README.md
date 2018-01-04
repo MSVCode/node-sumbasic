@@ -8,7 +8,7 @@ Here, the SumBasic are created as module inside `./src/index.js`.
 ### NPM package ###
 - Run `npm install node-sumbasic --save`
 - Require it in your project `const sumBasic = require('node-sumbasic')`
-- Call it `sumBasic(documents)`
+- Call it `sumBasic(documents,50)`
 
 ### Demo run in project folder###
 - Make sure to install the npm modules first `npm install`
