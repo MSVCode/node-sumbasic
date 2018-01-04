@@ -1,6 +1,6 @@
 {
   "name": "node-sumbasic",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "NodeJS implementation of popular baseline document summarizer 'SumBasic'.",
   "main": ".\\src\\index.js",
   "keywords": [
