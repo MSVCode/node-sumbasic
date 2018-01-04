@@ -12,7 +12,6 @@
   "author": "MSVCode <msvcode@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^4.13.1",
     "natural": "^0.5.4"
   }
 }

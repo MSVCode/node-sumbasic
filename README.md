@@ -5,7 +5,12 @@ Sumbasic is a popular baseline method for document summarization. The explanatio
 
 Here, the SumBasic are created as module inside `./src/index.js`.
 
-### Demo run ###
+### NPM package ###
+- Run `npm install node-sumbasic --save`
+- Require it in your project `const sumBasic = require('node-sumbasic')`
+- Call it `sumBasic(documents)`
+
+### Demo run in project folder###
 - Make sure to install the npm modules first `npm install`
 - In the project, run `node ./src/demo.js`
 
