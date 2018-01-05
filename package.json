@@ -9,6 +9,7 @@
     "summarization",
     "document"
   ],
+  "homepage": "https://github.com/MSVCode/node-sumbasic",
   "author": "MSVCode <msvcode@gmail.com>",
   "license": "MIT",
   "dependencies": {
