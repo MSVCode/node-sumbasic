@@ -15,4 +15,10 @@ Here, the SumBasic are created as module inside `./src/index.js`.
 - Make sure to install the npm modules first `npm install`
 - In the project, run `node ./src/demo.js`
 
+### What's new ###
+
+0.1.7
+- Change dependencies from natural to stemmer
+- Add minimum sentence length to the optional parameter
+
 
