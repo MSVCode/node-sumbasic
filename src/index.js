@@ -68,6 +68,11 @@ function documentToSentence_bagOfWords(documentList){
     return {totalNumberOfWords,sentenceList,bagOfWords,normalFormWords};
 }
 
+/**
+ * Perform SumBasic operation
+ * @param {string[]} documentList 
+ * @param {number} targetWordCount 
+ */
 function sumBasic(documentList, targetWordCount=10){
     const sentenceProcess = documentToSentence_bagOfWords(documentList);
     let sentenceObject = sentenceProcess.sentenceList;

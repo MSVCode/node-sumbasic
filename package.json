@@ -10,6 +10,10 @@
     "document"
   ],
   "homepage": "https://github.com/MSVCode/node-sumbasic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MSVCode/node-sumbasic.git"
+  },
   "author": "MSVCode <msvcode@gmail.com>",
   "license": "MIT",
   "dependencies": {
